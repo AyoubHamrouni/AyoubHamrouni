@@ -1,16 +1,17 @@
-## Hi there 👋
+### Application Security · Offensive Security · AI Security
 
-<!--
-**AyoubHamrouni/AyoubHamrouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student building practical security tooling — independently of coursework, with a focus on application security across web/API/cloud attack surfaces, offensive security methodology, and the security of AI systems.
 
-Here are some ideas to get you started:
+**Currently building**
+- 🎯 **Bounty Rush** — attack surface management platform: automated reconnaissance, manual pentesting workspace, AI-assisted vulnerability triage
+- 🏦 **VulnBank** — deliberately vulnerable fintech API for security research and pentest practice (OWASP Top 10, CI/CD security tooling)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- Application security (web, API, cloud)
+- Penetration testing & attack surface management
+- AI agent security
+- Security of AI-generated code
+
+Both projects are open to contributors — issues and PRs welcome.
+
+📫 [LinkedIn](your-linkedin-url) · [X](your-x-handle)
