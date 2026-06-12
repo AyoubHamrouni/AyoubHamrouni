@@ -14,4 +14,4 @@ Computer Engineering student building practical security tooling — independent
 
 Both projects are open to contributors — issues and PRs welcome.
 
-📫 [LinkedIn](your-linkedin-url) · [X](your-x-handle)
+📫 [LinkedIn]((https://www.linkedin.com/in/ayoub-hamrouni)) · 
